@@ -16,6 +16,9 @@
   <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629496/githubprofile/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8_ocu0ub.svg" style="width:64px;height:64px;"/>
   <img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627485/githubprofile/js_1_qucieg.png'/>
 <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628831/githubprofile/structure_slund6.png" />
+  <div><img style="width:64px;height:64px;" src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629792/githubprofile/redux_wx71pv.svg" />Redux</div>
+  <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629639/githubprofile/git_oxto2q.png" />
+  
 </div>
 
 
