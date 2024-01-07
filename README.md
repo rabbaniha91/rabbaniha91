@@ -18,6 +18,7 @@
 <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628831/githubprofile/structure_slund6.png" title="React Js" alt="reactjs"/>
   <img style="width:64px;height:64px;" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="redux"/>
   <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629639/githubprofile/git_oxto2q.png" title="Git" alt="git"/>
+  <img style="width:64px;height:64px;" src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704631243/githubprofile/node-js_dku9j8.svg" title="Node Js" alt="nodejs" />
   
 </div>
 
