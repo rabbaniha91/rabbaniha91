@@ -1,5 +1,5 @@
 <div style="width:100%;display:flex; align-items:center; justify-content:center">
-  <img src="https://media.giphy.com/media/Sc576bJiJDvOeq4EXt/giphy.gif"/>
+  <img src="https://media.giphy.com/media/Sc576bJiJDvOeq4EXt/giphy.gif" style="width:20px;heght:50px;"/>
   <h1>i'm Heydar Rabbaniha</h1>
 </div>
 
