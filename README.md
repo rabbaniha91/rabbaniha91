@@ -3,9 +3,12 @@
   <h1>I'm Heydar Rabbaniha</h1>
 </div>
 
-<h3>About me</h3>
+<div>
+  <h3>😊About me</h3>
 <p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p>
 <p>🌱 I’m currently learning Reactjs</p>
+</div>
+
 
 
 
