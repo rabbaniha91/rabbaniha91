@@ -5,10 +5,12 @@
 
 
 <h3 style='margin-top:50px''>😊 About me</h3>
- 
-<p>I'm a Front-End developer</p>
-<p>🔭 I’m currently working on ecommerce web app <a href="https://zen-pc.liara.run" target="_blank">Zen pc</a></p>
-<p>🌱 I'am currently improving my skills in ReactJs</p>
+ <ul>
+   <li>I'm a Front-End developer</li>
+<li>🔭 I’m currently working on ecommerce web app <a href="https://zen-pc.liara.run" target="_blank">Zen pc</a></li>
+<li>🌱 I'am currently improving my skills in ReactJs</li>
+ </ul>
+
 <h3 style='margin-top:50px;position:relative;'><img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628701/githubprofile/pencil_abhumo.png'/> My skills</h3>
 <div style="display:flex;">
   <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629023/githubprofile/html-5_djrun5.png" title="HTML5" alt="html5"/>
