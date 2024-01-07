@@ -7,7 +7,7 @@
 <h3 style='margin-top:50px''>😊 About me</h3>
  
 <p>I'm a Front-End developer</p>
-<p>🔭 I’m currently working on ecommerce web app <a href="https://zen-pc.liara.run" target="_blanck">Zenpc</a></p>
+<p>🔭 I’m currently working on ecommerce web app <a href="https://zen-pc.liara.run" target="_blank">Zenpc</a></p>
 <p>🌱 I'am currently improving my skills in ReactJs</p>
 <h3 style='margin-top:50px;position:relative;'><img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628701/githubprofile/pencil_abhumo.png'/> My skills</h3>
 <div style="display:flex;">
