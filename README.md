@@ -5,7 +5,7 @@
 
 
 <h3>😊About me</h3>
-  <div style='width:100%;height:1px;background-color:#ccc;'>
+  <div style='width:100%;height:1px;background-color:gray;'>
 <p>I'm a Front-End developer</p>
 <p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p>
 <p>🌱 I'am currently improving my skills in ReactJs</p>
