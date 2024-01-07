@@ -9,7 +9,7 @@
 <p>I'm a Front-End developer</p>
 <p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p>
 <p>🌱 I'am currently improving my skills in ReactJs</p>
-<div style='margin-top:50px;'>⚙️ <h3 style="display:inline-block">My skills</h3></div>
+<h3 style='margin-top:50px;'><img src=''https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627578/githubprofile/skills_turefv.png/> My skills</h3>
 <img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627485/githubprofile/js_1_qucieg.png'/>
 
 
