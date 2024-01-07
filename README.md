@@ -1,4 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:center">
+<div style="width:100%;display:flex; align-items:center; justify-content:center">
   <img src="https://media.giphy.com/media/Sc576bJiJDvOeq4EXt/giphy.gif"/>
   <h1>i'm Heydar Rabbaniha</h1>
 </div>
