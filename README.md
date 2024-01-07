@@ -1,17 +1,23 @@
 <div style="width:100%;display:flex; align-items:center; justify-content:start">
   <img src="https://media.giphy.com/media/Sc576bJiJDvOeq4EXt/giphy.gif" style="width:200px;"/>
   <h1>I'm Heydar Rabbaniha</h1>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=rabbaniha91&label=Profile%20views&color=0e75b6&style=flat" </p>
+
 </div>
 
 
-<h3 style='margin-top:50px''>😊 About me</h3>
+
+ ## About me
+  
  <ul>
    <li>I'm a Front-End developer</li>
 <li>🔭 I’m currently working on ecommerce web app <a href="https://zen-pc.liara.run" target="_blank">Zen pc</a></li>
 <li>🌱 I'am currently improving my skills in ReactJs</li>
  </ul>
+</div>
 
-<h3 style='margin-top:50px;position:relative;'><img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628701/githubprofile/pencil_abhumo.png'/> My skills</h3>
+##  My skills
+ 
 <div style="display:flex;">
   <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629023/githubprofile/html-5_djrun5.png" title="HTML5" alt="html5"/>
   <img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704629089/githubprofile/social_blcqst.png" title="CSS3" alt='css3'/>
@@ -24,6 +30,8 @@
   
 </div>
 
+
+  
 
 
 
