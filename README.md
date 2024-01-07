@@ -9,7 +9,7 @@
 <p>I'm a Front-End developer</p>
 <p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p>
 <p>🌱 I'am currently improving my skills in ReactJs</p>
-<div style='margin-top:50px;position:relative'><img style="width:40px;height:40px;position:absolute;top:0;right:2px" src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627578/githubprofile/skills_turefv.png"/> <h3 style="display:inline-block">My skills</h3></div>
+<div style='margin-top:50px;position:relative'><div style="position:absolute;top:0;right:2px"><img style="width:40px;height:40px;" src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627578/githubprofile/skills_turefv.png"/></div> <h3 style="display:inline-block">My skills</h3></div>
 <img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627485/githubprofile/js_1_qucieg.png'/>
 
 
