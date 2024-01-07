@@ -4,7 +4,7 @@
 </div>
 
 <h3>About me</h3>
-<p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p><br/>
+<p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p>
 <p>🌱 I’m currently learning Reactjs</p>
 
 
