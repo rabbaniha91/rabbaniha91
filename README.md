@@ -11,6 +11,7 @@
 <p>🌱 I'am currently improving my skills in ReactJs</p>
 <h3 style='margin-top:50px;position:relative;'><img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628701/githubprofile/pencil_abhumo.png'/> My skills</h3>
 <img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627485/githubprofile/js_1_qucieg.png'/>
+<img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704628831/githubprofile/structure_slund6.png" />
 
 
 
