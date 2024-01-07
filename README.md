@@ -4,11 +4,14 @@
 </div>
 
 
-<h3>😊About me</h3>
+<h3 style='margin-top:50px''>😊 About me</h3>
   <div style='width:100%;height:1px;background-color:gray;'>
 <p>I'm a Front-End developer</p>
 <p>🔭 I’m currently working on ecommerce web app https://zen-pc.liara.run</p>
 <p>🌱 I'am currently improving my skills in ReactJs</p>
+<h3 style='margin-top:50px''><img src="https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627578/githubprofile/skills_turefv.png"/> <span>My skills</span></h3>
+<img src='https://res.cloudinary.com/dzmn9xnso/image/upload/v1704627485/githubprofile/js_1_qucieg.png'/>
+
 
 
 
