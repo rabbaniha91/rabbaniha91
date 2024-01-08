@@ -11,7 +11,6 @@
   
  <ul>
    <li>I'm a Front-End developer</li>
-<li>🔭 I’m currently working on ecommerce web app <a href="https://zen-pc.liara.run" target="_blank">Zen pc</a></li>
 <li>🌱 I'am currently improving my skills in ReactJs</li>
  </ul>
 </div>
